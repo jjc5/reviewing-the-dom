@@ -1,0 +1,33 @@
+html{
+  background-color: grey;
+}
+div.buttons{
+  margin-left: 41vw;
+  margin-top: 50px;
+  /* border: solid black; */
+
+}
+div.buttons > input.input{
+  height:70px;
+  width: 100px;
+  font-size: 50px;
+  /* border: solid black; */
+}
+.subtract{
+  height: 70px;
+  width: 100px;
+  font-size: 50px;
+  /* border: solid black; */
+}
+.add{
+  height: 70px;
+  width: 100px;
+  font-size: 50px;
+  /* border: solid black; */
+}
+.count{
+  font-size: 100px;
+  text-align: center;
+  margin-top: 200px;
+  /* border: solid black; */
+}
